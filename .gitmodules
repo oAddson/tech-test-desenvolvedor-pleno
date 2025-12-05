@@ -1,0 +1,3 @@
+[submodule "eml_processor"]
+	path = eml_processor
+	url = git@github.com:oAddson/eml_processor.git
